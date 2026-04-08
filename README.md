@@ -16,11 +16,11 @@ This creates a travel experience that balances convenience with environmental aw
 
 Main preview image (.png):
 
-![Go Travel Preview](image.png)
+![Go Travel Preview](image123.png)
 
 Alternate preview/logo image (.png):
 
-![Go Travel Alternate Preview](Untitled.png)
+![Go Travel Alternate Preview](image456.png)
 
 ## Project Structure
 
