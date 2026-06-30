@@ -1,4 +1,8 @@
-# Go Travel - Hackathon Project
+
+# Hackathon_sept
+=======
+# Go Travel Hackathon Project
+
 
 Go Travel is a multi-page travel website prototype built during a hackathon. The project combines trip booking flow with eco-friendly suggestions so users can plan travel in a smarter and more sustainable way.
 
