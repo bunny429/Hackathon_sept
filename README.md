@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hackathon_sept
 =======
 # Go Travel Hackathon Project
